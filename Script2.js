@@ -4,16 +4,16 @@
 
             <p>Click the button to demonstrate the prompt box.</p>
 
-        <button onclick="helloWorld()">Click the button, then enter hello world.</button>
-                //should return in another language
+            <button onclick="assignGrade()">Click the button, then enter a number.</button>
 
             <script>
-                function helloWorld() {
-  var str = prompt ("Please enter two numbers");
-                                              var i;
-            for (i = 0; i < //language entered;) {
-                    text += language entered[i] + "<br>";
+                function assignGrade() {
+  var str = prompt ("Please enter a number");
+                                                            var i;
+            for (i = 0; i < //number entered;) {
+                    text += numberentered[i] + "<br>";
                         }
+                //60=F, 70=D, 75=C, 88=B, 90=A
                                                                                        
                                        
                                       var textName = "";
